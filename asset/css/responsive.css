@@ -1,0 +1,70 @@
+/* lg */
+
+@media (max-width: 992px) {
+    .icon {
+        border-bottom: 0px solid #ffffff;
+        padding-top: 22px;
+        width: 100%;
+    }
+    .icon-2 {
+        border-bottom: 0px;
+    }
+    .icon-3 {
+        border-bottom: 0px;
+    }
+}
+
+/* md */
+
+@media (max-width: 768px) {
+    .video-1 {
+        margin-top: 80px;
+    }
+    .py-24 {
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+    .video-btn-3 p {
+        font-size: 15px;
+        font-weight: 500;
+    }
+}
+
+@media (max-width: 576px) {
+    .contact-btn {
+        width: 100%;
+    }
+    .font-size-ea-50 {
+        font-size: 40px;
+    }
+    .font-size-ea-30 {
+        font-size: 20px;
+    }
+    .line-height-ea-75 {
+        line-height: 30px;
+    }
+    .line-height-ea-40 {
+        line-height: 30px;
+    }
+    .form-py {
+        padding-top: 24px;
+        padding-bottom: 24px;
+    }
+    .form-px {
+        padding-left: 16px;
+        padding-right: 16px;
+    }
+    .Regras-space {
+        padding-bottom: 200px;
+    }
+    .video-3 {
+        margin-top: -100px;
+    }
+}
+
+
+
+
+
+
+
